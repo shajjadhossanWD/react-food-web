@@ -1,0 +1,27 @@
+ *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;   
+} 
+.navbars{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(42, 40, 40);
+}
+
+h3{
+    display: inline;
+    padding: 10px;
+    color: white;
+}
+h3 span{
+    color: rgb(212, 161, 31)
+}
+.nav-item{
+    
+    font-size: 25px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
